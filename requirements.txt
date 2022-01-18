@@ -1,0 +1,6 @@
+pyqt5
+Pillow
+git+https://github.com/Rapptz/asqlite
+lark
+aiohttp
+numpy
